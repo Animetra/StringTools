@@ -1,0 +1,12 @@
+{
+  "name": "com.animetra.stringtools",
+  "version": "0.1.0",
+  "displayName": "Animetra String Tools",
+  "description": "Tools and extensions to handle and modify strings, especially useful for game development",
+  "author": {
+    "name": "Animetra",
+    "email": "info@animetra.de",
+    "url": "https://www.animetra.de"
+  },
+  "type": "commonjs"
+}
